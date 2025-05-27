@@ -8,4 +8,4 @@ st.image("IMG_7232.JPG", width=200)
 
 st.title("Pei ❤️ Emiw")
 st.header("Aplikasi mengecek nilai ganjil/genap")
-angka=st.number_input("90:"), value=0, step=2)
+angka=st.number_input("90:", value=0, step=2)
