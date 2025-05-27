@@ -6,6 +6,6 @@ st.write(
 )
 st.image("IMG_7232.JPG", width=200)
 
-st.title("Pei ❤️ emiw")
-st.header("pernikaha pei dan emiw")
-angka=st.number_input("1000"), value=10, step=5)
+st.title("Pei ❤️ Emiw")
+st.header("Aplikasi mengecek nilai ganjil/genap")
+angka=st.number_input("1000"), value=0, step=0)
